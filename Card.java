@@ -41,7 +41,7 @@ public class Card implements Comparable<Card>
     
     /**
      * Sets the cards type.
-     * @pram type - sets the cards type.
+     * @param type - sets the cards type.
      */
     public void setType(String type)
     {
